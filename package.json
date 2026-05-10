@@ -1,0 +1,19 @@
+{
+  "name": "@roflsec/rssr_cve",
+  "version": "0.0.1",
+  "description": "Live CVE Watcher 4 NVD API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nvd-api",
+    "cve"
+  ],
+  "author": "roflsec",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
